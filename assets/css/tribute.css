@@ -1,0 +1,74 @@
+body{
+  background-color: black;
+  color: white;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 15px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#logo1{
+  width: 150px;
+}
+#part1{
+  display: flex;
+  justify-content: space-between;
+}
+.inicio{
+  list-style: none;
+  display:flex;
+  margin-top: 30px;
+  margin: 25px;
+}
+a:hover{
+  color: yellow;
+}
+a{
+  margin: 25px;
+  color: white;
+  transition: .3s;
+  text-decoration: none;
+}
+.logo2{
+  margin-top: 30px;
+  width: 400px;
+}
+.titulo1 {
+  margin-top: 100px;
+  }
+  h1{
+    color: yellow;
+  }
+  .p2{
+    margin-top: 100px;
+    font-size: 20px;
+  }
+  h3{
+    color: yellow;
+    margin-top: 50px;
+  }
+  .lista2{
+    list-style: none;
+  }
+  .part3{
+    margin-top: 50px;
+    
+  }
+  #livro{
+    width: 150px;
+  }
+  h2{
+    color: yellow;
+  }
+  footer{
+    height: 50px;
+    margin-bottom: 0px;
+    background-color: yellow;
+    border-radius: 20px;
+    margin-top: 40px;
+  }
+  h4{
+    color: black;
+    margin-top: 30px;
+    margin: 2px;
+  }
